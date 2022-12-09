@@ -14,7 +14,6 @@ import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
-import tech.alvarez.pokedex.R;
 
 import com.julian.pokedex.models.Pokemon;
 import com.julian.pokedex.models.PokemonRespuesta;

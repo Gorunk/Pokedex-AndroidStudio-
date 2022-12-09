@@ -16,8 +16,6 @@ import java.util.ArrayList;
 
 import com.julian.pokedex.models.Pokemon;
 
-import tech.alvarez.pokedex.R;
-
 public class ListaPokemonAdapter extends RecyclerView.Adapter<ListaPokemonAdapter.ViewHolder> {
 
     private ArrayList<Pokemon> dataset;
